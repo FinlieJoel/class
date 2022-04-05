@@ -1,0 +1,3 @@
+C:/msys64/home/local_admin/trainers/build/CMakeFiles/MyProject.dir
+C:/msys64/home/local_admin/trainers/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/local_admin/trainers/build/CMakeFiles/rebuild_cache.dir
